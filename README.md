@@ -1,1 +1,1 @@
-- still learning 
+First Year Computer Science Student!
