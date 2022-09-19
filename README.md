@@ -1,1 +1,1 @@
-First Year Computer Science Student!
+First Year CS Student
