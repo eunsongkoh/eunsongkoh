@@ -5,5 +5,5 @@
 👾 Currently, I'm interested in full stack development, software engineering, and product management!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunsongkoh&layout=donut&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunsongkoh&layout=pie_chart&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunsongkoh&theme=rose&hide_rank=true)
