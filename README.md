@@ -4,6 +4,6 @@
 
 👾 Currently, I'm interested in full stack development, software engineering, and product management!
 
- <img src="https://github-readme-stats-navy-kappa-31.vercel.app/api?username=eunsongkoh&show_icons=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunsongkoh)](https://github.com/anuraghazra/github-readme-stats)
 
 
