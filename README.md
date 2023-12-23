@@ -4,6 +4,8 @@
 
 👾 Currently, I'm interested in full stack development, software engineering, and product management!
 
+🕺 You can check out all of my personal projects here! 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunsongkoh&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
