@@ -2,7 +2,7 @@
 
 🏫 I'm a 2nd Year Computing Science Student! 
 
-👾 Currently, I'm interested in full stack development, software engineering, and product management!
+👾 Currently, I'm interested in full stack development, cloud computing, software engineering, and product management!
 
 🕺 You can check out all of my personal projects here! 
 
