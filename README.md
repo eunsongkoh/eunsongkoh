@@ -1,6 +1,6 @@
 👩🏻‍💻 Hi My name is Song!
 
-🏫 I'm a 2nd Year Computing Science Student! 
+🏫 I'm a Computing Science Student! 
 
 👾 Currently, I'm interested in full stack development, cloud computing, software engineering, and product management!
 
