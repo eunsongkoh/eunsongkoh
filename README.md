@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋  <br>I'm Song</h1>
+<h1 align="center">Nice, to meet you! 👋  <br>I'm Song</h1>
 
 ###
 
@@ -52,7 +52,14 @@
 
 ###
 
-<h6 align="left">🏫 I'm a 3rd year CS Student <br><br>📱 I was previously a <b>Software Engineer Intern</b> working w/ <b>.NET, Angular, C#, Python, Typescript & Javascript</b> <br><br>👩🏻‍💻 I have a background in <b>Systems Programming, Networking, Data Science, Database Systems</b>, and more throughout my coursework!<br><br>👾 I'm looking for opportunities in software engineering, product management, cybersecurity, and accessible tech! <br><br>🍊 I'm the Director of Communications & Multimedia @ SFU DNS<br><br>🕺 Some of my projects include: <br>- <a href="https://github.com/eunsongkoh/tax-me">taxMe</a>, a grocery app built with Next.js, Springboot, Java, SQL, Redux <br><br>- <a href="wordsio.netlify.app">words.io</a>, a fullstack app built with Next.js and  Mongo.db to practice learning English <br><br>⌨️ Some Hackathon Projects: <br>-  <a href="https://devpost.com/software/gesture-genius-asl-ai-recognition">Gesture Genius: Hack the North 2023 @ UWaterloo</a>, A real time AI ASL translator web application<br><br>- <a href="https://devpost.com/software/mum-manage-your-medication-and-more">mum: nwHacks @ UBC 2024</a>, a new way to manage your medication</h6>
+<h6 align="left">🏫 I'm a 3rd year CS Student <br><br>📱 I'm currently a Software Engineer Intern @ Safety Cybersecurity on their Data Engine Team! <br><br>👩🏻‍💻 I have a background in Systems Programming, Networking, Data Science, Database Systems, and more throughout my coursework!<br><br>👾 I'm interested in cybersecurity, accessible tech, and gaming! <br><br>🍊 I'm the Director of Communications & Multimedia @ SFU DNS<br><br>🕺 Some of my projects include: 
+<br>- <a href="https://github.com/eunsongkoh/tax-me">taxMe</a>, a grocery app built with Next.js, Spring Boot, Java, SQL, Redux 
+<br>- <a href="https://wordsio.netlify.app">words.io</a>, a fullstack app built with Next.js and MongoDB to practice learning English 
+
+<br><br>⌨️ Some Hackathon Projects: 
+<br>- <a href="https://devpost.com/software/moodmirror">moodMirror: nwHacks 2025 @ UBC</a>: A cross-platform app that predicts your emotions through video conferencing as well as a live camera view
+<br>- <a href="https://devpost.com/software/gesture-genius-asl-ai-recognition">Gesture Genius: Hack the North 2023 @ UWaterloo</a>: A real-time AI ASL translator web application 
+<br>- <a href="https://devpost.com/software/mum-manage-your-medication-and-more">mum: nwHacks 2024 @ UBC</a>: A new way to manage your medication
 
 ###
 
@@ -68,10 +75,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/songkoh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
