@@ -52,14 +52,10 @@
 
 ###
 
-<h6 align="left">🏫 I'm a 3rd year CS Student <br><br>📱 I'm currently a Software Engineer Intern @ Safety Cybersecurity on their Data Engine Team! <br><br>👩🏻‍💻 I have a background in Systems Programming, Networking, Data Science, Database Systems, and more throughout my coursework!<br><br>👾 I'm interested in cybersecurity, accessible tech, and gaming! <br><br>🍊 I'm the Director of Communications & Multimedia @ SFU DNS<br><br>🕺 Some of my projects include: 
-<br>- <a href="https://github.com/eunsongkoh/tax-me">taxMe</a>, a grocery app built with Next.js, Spring Boot, Java, SQL, Redux 
-<br>- <a href="https://wordsio.netlify.app">words.io</a>, a fullstack app built with Next.js and MongoDB to practice learning English 
+<h6 align="left">🏫 4th year CS Student <br><br>📱 SWE Intern @ Safety Cybersecurity - Data Engine Team! <br><br>👩🏻‍💻 I have a background in Systems Programming, Networking, Data Science, Database Systems, and more throughout my coursework!<br><br>🍊 I'm the Director of Communications & Multimedia @ SFU DNS<br><br>
 
-<br><br>⌨️ Some Hackathon Projects: 
-<br>- <a href="https://devpost.com/software/moodmirror">moodMirror: nwHacks 2025 @ UBC</a>: A cross-platform app that predicts your emotions through video conferencing as well as a live camera view
-<br>- <a href="https://devpost.com/software/gesture-genius-asl-ai-recognition">Gesture Genius: Hack the North 2023 @ UWaterloo</a>: A real-time AI ASL translator web application 
-<br>- <a href="https://devpost.com/software/mum-manage-your-medication-and-more">mum: nwHacks 2024 @ UBC</a>: A new way to manage your medication
+### 
+<b><a href="eunsong_koh@sfu.ca">Contact Me</a><b>
 
 ###
 
