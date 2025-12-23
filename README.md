@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 4ᵗʰ-year CS Student  <br>  <br>📱 Applied Research Engineer (AI + Security) @ Safety Cybersecurity  <br>  <br>👩🏻‍💻 Background in Systems Programming, Networking, Data Science, Database Systems, and more throughout my coursework!  <br>  <br>🍊 Director of Communications & Multimedia @ SFU DNS  <br>  
+🏫 4ᵗʰ-year CS Student  <br>  <br>📱 Applied Research Engineer (AI + Security) @ Safety Cybersecurity  <br>  <br>👩🏻‍💻 Experience in Systems Programming, Networking, Data Science, Database Systems, and more throughout my coursework!  <br>  <br>🍊 Director of Communications & Multimedia @ SFU DNS  <br>  
 
 
 ## 🌐 Socials:
